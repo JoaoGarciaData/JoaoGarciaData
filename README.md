@@ -21,6 +21,7 @@
 
   - 🚗 [Used Cars market evaluation](https://public.tableau.com/views/UsedCars_17787591321890/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - 🏠 [Paris Airbnb Listings](https://public.tableau.com/views/Airbnb_17792747280810/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - 🛏️ [Lisboa-Porto Airbnb Listings](https://public.tableau.com/views/PortoLisboa/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -30,6 +31,7 @@
 # Python
 
   - 🏠 [Paris Airbnb Listings](https://github.com/Joaogarcia1804/Portfolio/blob/main/Paris%20Airbnb%20Listings.md)
+  - 🛏️ [Lisboa-Porto Airbnb Listings](https://github.com/Joaogarcia1804/Portfolio/blob/main/Lisboa-Porto%20Airbnb%20Listings.md)
 
 # Conctacts 
 - 📫 Email: **joaongarcia18@gmail.com**
