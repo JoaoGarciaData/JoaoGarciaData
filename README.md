@@ -44,3 +44,5 @@
 <a href="https://kaggle.com/joao1844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="joao1844" height="30" width="40" /></a>
 <a href="https://instagram.com/_.garcia18._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.garcia18._" height="30" width="40" /></a>
 </p>
+
+* [Google Data Analyst Certificate](https://www.credly.com/badges/ffb0b71d-5407-42e1-8647-780c2e64ac68/public_url)
